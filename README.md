@@ -4,14 +4,13 @@ Private study space for web service.
 ### Skills
 * Java8
 * Spring-boot2
-* JPA or jOOQ
+* JPA
 * MySql, H2
-* Junit4
+* Junit5
 * Rest-api
 * Gradle
 * Git-flow
 * Mustache
-* Bootstrap with jquery
 * AWS
 * Nginx
 
